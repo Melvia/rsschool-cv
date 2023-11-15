@@ -21,7 +21,18 @@ I'm an avid front-end programmer who loves to combine visualization and code. Fo
 
 ## Skills
 
-Program Languages and technologies: Javascript, Java-Core, C#, 1C, SQL, CSS, HTML, Git, webpack, MS SQL, Typescript, Angular, NgXS, SCSS
+*Javascript
+*Java-Core
+*C# 
+*1C 
+*SQL
+*CSS
+*HTML
+*Git webpack
+*Typescript 
+*Angular 
+*NgXS 
+*SCSS
 
 
 ## Code examples
